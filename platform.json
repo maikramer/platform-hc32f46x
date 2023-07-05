@@ -1,6 +1,6 @@
 {
   "name": "hc32f46x",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "title": "HC32F46X",
   "description": "HC32F46x",
   "homepage": "",
@@ -37,7 +37,7 @@
     },
     "framework-arduino-hc32f46x": {
       "type": "framework",
-      "version": "https://github.com/shadow578/framework-arduino-hc32f46x.git"
+      "version": "https://github.com/maikramer/framework-arduino-hc32f46x.git"
     },
     "framework-hc32f46x-ddl": {
       "type": "framework",
