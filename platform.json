@@ -1,6 +1,6 @@
 {
   "name": "hc32f46x",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "title": "HC32F46X",
   "description": "HC32F46x",
   "homepage": "",
@@ -41,7 +41,7 @@
     },
     "framework-hc32f46x-ddl": {
       "type": "framework",
-      "version": "https://github.com/shadow578/framework-hc32f46x-ddl.git"
+      "version": "https://github.com/maikramer/framework-hc32f46x-ddl.git"
     }
   }
 }
